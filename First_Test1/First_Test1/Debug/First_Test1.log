@@ -1,0 +1,4 @@
+﻿  First_Test1.cpp
+C:\Users\aappo\source\repos\First_Test1\First_Test1\First_Test1.cpp(10,16): warning C4305:  инициализация: усечение из "double" в "float"
+C:\Users\aappo\source\repos\First_Test1\First_Test1\First_Test1.cpp(11,15): warning C4305:  инициализация: усечение из "double" в "float"
+  First_Test1.vcxproj -> C:\Users\aappo\source\repos\First_Test1\Debug\First_Test1.exe
